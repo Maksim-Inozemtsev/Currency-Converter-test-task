@@ -1,0 +1,19 @@
+{
+  "name": "currency-converter-test-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maksim-Inozemtsev/Currency-Converter-test-task.git"
+  },
+  "author": "Inozemtsev Maksim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Maksim-Inozemtsev/Currency-Converter-test-task/issues"
+  },
+  "homepage": "https://github.com/Maksim-Inozemtsev/Currency-Converter-test-task#readme"
+}
